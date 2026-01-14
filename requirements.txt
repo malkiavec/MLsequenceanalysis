@@ -1,7 +1,11 @@
 streamlit
 collections
-import requests
-import numpy as np
+import 
+requests 
+import 
+numpy as np
 from collections import Counter
-from sklearn.model_selection 
-import train_test_split
+from 
+sklearn.model_selection 
+import 
+train_test_split
