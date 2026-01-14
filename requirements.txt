@@ -3,7 +3,7 @@ collections
 import 
 requests 
 import 
-numpy as np
+numpy
 collections 
 Counter
 from 
