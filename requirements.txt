@@ -4,8 +4,8 @@ import
 requests 
 import 
 numpy as np
-from collections import Counter
+collections 
+Counter
 from 
 sklearn.model_selection 
-import 
 train_test_split
